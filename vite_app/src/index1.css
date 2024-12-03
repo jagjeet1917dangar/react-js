@@ -1,0 +1,397 @@
+.hari{
+    margin-left: 33px;
+    margin-top: px;
+    height: 40px;
+    width: 242px;
+}
+.searchbar{
+    margin-left: 344px;
+    margin-top: -50px;
+    height: 48px;
+    width: 672px;
+    border-radius: 7px;
+    border: 1px solid #DCDEDD;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+}
+.h2{
+    margin-left: 54px;
+    margin-top: -23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #9B9E9E;
+    font-weight: 400;
+}
+.searchicon{
+    margin-left: 14px;
+    margin-top: 15px;
+}
+.start{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #c7c7c7;
+    height: 45px;
+    width: 130px;
+    margin-left: 1100px;
+    border-radius: 4px;
+    margin-top: -49px;
+}
+.start:hover{
+    cursor: pointer;
+}
+.h1{
+    font-size: 16px;
+    font-family:  sans-serif;
+    font-weight: 500;
+    color: rgb(23, 23,23);
+}
+.l{
+    font-size: 16px;
+    font-family:  sans-serif;
+    font-weight: 500;
+    color: rgb(23, 23,23);
+    margin-left: -10px;
+}
+.l:hover{
+    color: #03757B;
+    cursor: pointer;
+}
+.login{
+    margin-left: 1260px;
+    margin-top: -42px;
+}
+.searchbarniniche{
+    display: grid;
+    grid-template-columns: repeat(16,85px);
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    margin-top: -5px;
+}
+.border{
+    border-top: 1px solid #c4c4c4;
+    margin-top: 15px;
+    height: 0px;
+}
+.diljit{
+    margin-left: -8px;
+}
+.ha{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 34px;
+    margin-left: 427px;
+    margin-top: -115px;
+    letter-spacing: 1px;
+}
+.oh{
+    font-family: sans-serif;
+    font-size: 14px;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    padding: 0px;
+    color: #6e6e6e;
+    font-weight: 500;
+    margin-left: 605px;
+    margin-top: 35px;
+}
+.dosanjh{
+    margin-left: 1190px;
+    margin-top: -129px;
+}
+.vachhe{
+    display: grid;
+    grid-template-columns: repeat(3,415px);
+    margin-left: 50px;
+    margin-top: -9px;
+}
+.khana{
+    width:415px;
+    background-color: white;
+    border: 1px solid #DCDEDD;
+    height: 110px;
+}
+.tota{
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #037362;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nanu{
+    color: #7E7781;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+    letter-spacing: 1px;
+}
+.hell{
+    margin-left: 1295px;
+    margin-top: -110px;
+}
+.naah{
+    margin-top: 61px;
+}
+.are{
+    margin-top: -35px;
+}
+.cntr{
+    margin-left: 1200px;
+    margin-top: -106px;
+}
+.c{
+    margin-left: 1300px;
+    margin-top: -24px;
+}
+.hve{
+    margin-left: 55px;
+    margin-top: -25px;
+}
+.e{
+    margin-left: 660px;
+    margin-top: -487px;
+}
+.aukaat{
+    margin-left: 660px;
+    margin-top: -60px;
+}
+.messi{
+    margin-left: 1000px;
+    margin-top: -230px;
+}
+.aukaat1{
+    margin-left: 1000px;
+    margin-top: -60px;
+}
+.deep{
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+.andar{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: #656969;
+    margin-left: 60px;
+    margin-top: -10px;
+}
+.thak{
+    margin-left: 660px;
+    margin-top: 60px;
+}
+.thak1{
+    margin-left: 1000px;
+    margin-top: -230px;
+}
+.abhi{
+    margin-left: 60px;
+    margin-top: -200px;
+}
+.aukaat2{
+    margin-left: 660px;
+    margin-top: -55px;
+}
+.nawww{
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+.box{
+    height: 70px;
+    width: 1360px;
+    border-bottom: 1px solid grey;
+    margin-top: 100px;
+}
+.imagespart{
+    display: grid;
+    grid-template-columns: repeat(2,640px);
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.namaste{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.ji{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.textpart{
+    display: grid;
+    grid-template-columns: repeat(2,640px);
+    margin-left: 80px;
+    margin-top: 130px;
+}
+.divpart{
+    display: grid;
+    grid-template-columns: repeat(2,640px);
+    margin-left: 50px;
+    margin-top: -145px;
+}
+.nanananan{
+    background-color: #037362;
+    height: 130px;
+    width: 5px;
+}
+.buttons{
+    display: grid;
+    grid-template-columns: repeat(2,150px);
+    margin-top: 130px;
+    margin-left: 110px;
+}
+.b1{
+    text-align: center;
+    width: 120px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding: 5px;
+    font-family: sans-serif;
+}
+.b2{
+    text-align: center;
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 15px;
+    font-family: sans-serif;
+}
+.s{
+    font-family: sans-serif;
+    color: grey;
+    font-size: 13px;
+}
+.i{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.jeet{
+    display: grid;
+    grid-template-columns: repeat(3,400px);
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.yash{
+    display: grid;
+    grid-template-columns: repeat(3,400px);
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.imagessss1{
+    margin-top: -80px;
+}
+button{
+    width: 130px;
+}
+.sigmaboy{
+    display: grid;
+    grid-template-columns: repeat(4,320px);
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.ohioboy{
+    display: grid;
+    grid-template-columns: repeat(4,330px);
+    margin-left: -20px;
+}
+.chill{
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.t{
+    margin-left: 720px;
+    margin-top: -155px;
+    font-family: sans-serif;
+}
+.t1{
+    margin-left: 720px;
+    font-family: sans-serif;
+}
+.gata{
+    font-weight: 400;
+}
+.only{
+    font-weight: 400;
+}
+.guyses{
+    display: grid;
+    margin-top: 50px;
+    grid-template-columns: repeat(2, 650px);
+    grid-template-rows: repeat(2,270px);
+    margin-left: 50px;
+}
+.arf{
+    height: 220px;
+    width: 600px;
+    border: 1px solid grey;
+}
+.ohfk{
+    display: grid;
+    grid-template-columns: repeat(2,650px);
+    grid-template-rows: repeat(2,270px);
+    margin-top: -520px;
+    margin-left: 70px;
+}
+.leanon{
+    display: grid;
+    grid-template-columns: repeat(2,650px);
+    grid-template-rows: repeat(2,270px);
+    margin-left: 270px;
+    margin-top: -560px;
+}
+.on{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.fire{
+    display: grid;
+    grid-template-columns: repeat(2,650px);
+    grid-template-rows: repeat(2,270px);
+    margin-left: 270px;
+    margin-top: -470px;
+}
+.alpha{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.adele{
+    display: grid;
+    grid-template-columns: repeat(2,650px);
+    grid-template-rows: repeat(2,270px);
+    margin-left: 270px;
+    margin-top: -455px;
+}
+.dot{
+    color: blue;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.sza{
+    display: grid;
+    grid-template-columns: repeat(8,100px);
+    margin-top: 30px;
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+}
+.allthestars{
+    width: 150px;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
